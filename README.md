@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+@Mushindi-Rachel;👀+I’m+interested+in+data+analysis;🌱+I’m+currently+a+3rd+year+student+of+Bsc+IT;💞️+I’m+looking+forward+to+collaborate+on+...;📫+Email+me+at+mushindirachel@gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I’m+@Mushindi-Rachel;👀+I’m+interested+in+data+analysis;🌱+I’m+currently+a+4th+year+student+of+Bsc+IT;💞️+I’m+looking+forward+to+collaborate+on+...;📫+Email+me+at+mushindirachel@gmail.com)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mushindi-Rachel)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
